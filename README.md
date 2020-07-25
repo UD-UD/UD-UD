@@ -44,7 +44,7 @@
 
 ### My Experiences
 <samp align="center">
- I love to learn and experiments with new technology and frameworks.To name a few that I have worked &nbsp with are
+ I love to learn and experiments with new technology and frameworks.&nbspTo name a few that I have worked &nbsp with are
   <br><br>
   <p align="center">
     <img height="64" src="https://cdn.svgporn.com/logos/java.svg">&nbsp
@@ -57,3 +57,7 @@
     <img height="64" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">&nbsp
   </p>
 </samp>
+<br><br>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ud-ud&show_icons=true&hide_border=false)
+
