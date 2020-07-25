@@ -85,8 +85,11 @@
       
 <br>
 
-### My Passion
-Scalable System Design :writing_hand:
-Photography :camera_flash:
-Travel :mountain_railway:
-Cooking :shallow_pan_of_food:
+<h3>My Passion</h3>
+<ul>
+   <li>Scalable System Design :writing_hand:</li>
+   <li>Photography :camera_flash:</li>
+   <li>Travel :mountain_railway:</li>
+   <li>Cooking :shallow_pan_of_food:</li>
+<ul>
+
