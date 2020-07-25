@@ -12,8 +12,7 @@
        <a href="mailto:duttaujjal143@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>&nbsp
       <a href="https://medium.com/@UD_UD"><img src="https://aleen42.github.io/badges/src/medium.svg"></a>&nbsp
       </p>
-     <p align="center">Currently working with</p>
-    <br>
+     <p align="center"><b>Currently working with</b></p>
   </samp>
   <p align="center">
     <img height="50" src="https://cdn.svgporn.com/logos/rust.svg">&nbsp
