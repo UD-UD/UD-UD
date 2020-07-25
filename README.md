@@ -1,3 +1,6 @@
+<p align="center">
+   <img src="https://github.com/UD-UD/Profile/blob/master/circle-cropped%20(1).png">&nbsp
+</p>
 <h1 align="center" >Hi, I am Ujjal </h2>
 <p align="center">
   <samp align="center">
