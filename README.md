@@ -13,3 +13,30 @@
     <img height="50" src="https://cdn.svgporn.com/logos/react.svg">&nbsp
   </p>
 </p>
+<br><br>
+
+### Major Contributions
+<div align="center">
+  <table style="border:none">
+    <tbody style="border:none">
+      <tr style="border:none"valign="top">
+        <td style="border:none" width="25%" align="center">
+          <span><a href="plore.charts.com">Explore</a></span><br><br>
+         <a href="https://www.producthunt.com/posts/explore-by-charts-com?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-explore-by-charts-com" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=183992&theme=light&period=daily" alt="Explore by Charts.com - Free chart maker & visual exploration for spreadsheet data | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="30px" /></a>
+        </td>
+        <td style="border:none" width="25%" align="center">
+          <span><a href="https://www.npmjs.com/package/muze">Muze</a></span><br><br>
+          <img height="30" src="https://img.shields.io/npm/dt/muze.svg">
+        </td>
+        <td style="border:none" width="25%" align="center">
+           <span><a href="https://www.npmjs.com/package/datamodel">DataModel</a></span><br><br>
+          <img height="30" src="https://img.shields.io/npm/dt/datamodel.svg">
+        </td>
+        <td style="border:none" width="25%" align="center">
+          <span><a href="https://www.npmjs.com/package/npm-safe-install">npm-safe-install</a></span><br><br>
+          <img height="30" src="https://img.shields.io/npm/dt/npm-safe-install.svg">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+<div>
