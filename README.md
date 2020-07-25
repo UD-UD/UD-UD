@@ -21,7 +21,7 @@
     <tbody style="border:none">
       <tr style="border:none"valign="top">
         <td style="border:none" width="25%" align="center">
-          <span><a href="plore.charts.com">Explore</a></span><br><br>
+          <span><a href="https://www.explore.charts.com">Explore</a></span><br><br>
          <a href="https://www.producthunt.com/posts/explore-by-charts-com?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-explore-by-charts-com" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=183992&theme=light&period=daily" alt="Explore by Charts.com - Free chart maker & visual exploration for spreadsheet data | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="30px" /></a>
         </td>
         <td style="border:none" width="25%" align="center">
@@ -39,7 +39,7 @@
       </tr>
     </tbody>
   </table>
-<div>
+</div>
 <br><br>
 
 ### My Experiences
