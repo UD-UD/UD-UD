@@ -40,3 +40,20 @@
     </tbody>
   </table>
 <div>
+<br><br>
+
+### My Experiences
+<samp align="center">
+ I love to learn and experiments with new technology and frameworks.To name a few that I have worked &nbsp with are
+  <br><br>
+  <p align="center">
+    <img height="64" src="https://cdn.svgporn.com/logos/java.svg">&nbsp
+    <img height="64" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp
+    <img height="64" src="https://cdn.svgporn.com/logos/typescript-icon.svg">&nbsp
+    <img height="64" src="https://cdn.svgporn.com/logos/react.svg">&nbsp
+    <img height="64" src="https://cdn.svgporn.com/logos/rust.svg">&nbsp
+    <img height="64" src="https://cdn.svgporn.com/logos/spring.svg">&nbsp
+    <img height="64" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp
+    <img height="64" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">&nbsp
+  </p>
+</samp>
