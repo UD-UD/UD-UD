@@ -59,5 +59,13 @@
 </samp>
 <br><br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ud-ud&show_icons=true&hide_border=false)
+### My Interest 
+- System Design
+- Competitive Coding
+- Data Visualization
+- Embedded Analytics
+<br><br>
+
+### My Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=ud-ud&show_icons=true&hide_border=false&hide_title=true)
 
