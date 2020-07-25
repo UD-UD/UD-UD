@@ -64,7 +64,7 @@
 
 ### My Interest 
 - System Design
-- Competitive Coding
+- Competitive Programming
 - Data Visualization
 - Embedded Analytics
 <br><br>
