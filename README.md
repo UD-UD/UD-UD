@@ -1,7 +1,9 @@
 <p align="center">
    <img src="https://github.com/UD-UD/Profile/blob/master/circle-cropped%20(1).png">&nbsp
 </p>
+
 <h1 align="center" >Hi, I am Ujjal </h2>
+
 <p align="center">
   <samp align="center">
     Software Engineering Lead at <a href="https://www.charts.com">Charts.com</a>
@@ -15,10 +17,10 @@
      <p align="center"><b>Currently working with</b></p>
   </samp>
   <p align="center">
-    <img height="50" src="https://cdn.svgporn.com/logos/rust.svg">&nbsp
-    <img height="50" src="https://cdn.svgporn.com/logos/webassembly.svg">&nbsp
-    <img height="50" src="https://cdn.svgporn.com/logos/typescript-icon.svg">&nbsp
-    <img height="50" src="https://cdn.svgporn.com/logos/react.svg">&nbsp
+    <a href="https://www.rust-lang.org/"><img height="50" alt="Rust" src="https://cdn.svgporn.com/logos/rust.svg"></a>&nbsp
+    <a href="https://webassembly.org/"><img height="50" src="https://cdn.svgporn.com/logos/webassembly.svg"></a>&nbsp
+    <a href="https://www.typescriptlang.org/"><img height="50" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a>&nbsp
+    <a href="https://reactjs.org/"><img height="50" src="https://cdn.svgporn.com/logos/react.svg"></a>&nbsp
   </p>
 </p>
 <br><br>
@@ -30,7 +32,7 @@
       <tr style="border:none"valign="top">
         <td style="border:none" width="25%" align="center">
           <span><a href="https://www.explore.charts.com">Explore</a></span><br><br>
-         <a href="https://www.producthunt.com/posts/explore-by-charts-com?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-explore-by-charts-com" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=183992&theme=light&period=daily" alt="Explore by Charts.com - Free chart maker & visual exploration for spreadsheet data | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="30px" /></a>
+         <a href="https://www.producthunt.com/posts/explore-by-charts-com?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-explore-by-charts-com" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=183992&theme=light&period=daily" alt="Explore by Charts.com - Free chart maker & visual exploration for spreadsheet data | Product Hunt Embed" style="width: 250px; height: 33px;" width="250px" height="33px" /></a>
         </td>
         <td style="border:none" width="25%" align="center">
           <span><a href="https://www.npmjs.com/package/muze">Muze</a></span><br><br>
@@ -55,18 +57,16 @@
  I love to learn and experiment with new technology and frameworks.&nbspTo name a few that I have worked &nbsp with are
   <br><br>
   <p align="center">
-    <img height="64" src="https://cdn.svgporn.com/logos/java.svg">&nbsp
-    <img height="64" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp
-    <img height="64" src="https://cdn.svgporn.com/logos/typescript-icon.svg">&nbsp
-    <img height="64" src="https://cdn.svgporn.com/logos/react.svg">&nbsp
-    <img height="64" src="https://cdn.svgporn.com/logos/rust.svg">&nbsp
-    <img height="64" src="https://cdn.svgporn.com/logos/spring.svg">&nbsp
-    <img height="64" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp
-    <img height="64" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">&nbsp
+    <a href="https://www.java.com/"><img height="64" src="https://cdn.svgporn.com/logos/java.svg"></a>&nbsp
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="64" src="https://cdn.svgporn.com/logos/javascript.svg"></a>&nbsp
+    <a href="https://www.typescriptlang.org/"><img height="64" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a>&nbsp
+    <a href="https://reactjs.org/"><img height="64" src="https://cdn.svgporn.com/logos/react.svg"></a>&nbsp
+    <a href="https://www.rust-lang.org/"><img height="64" src="https://cdn.svgporn.com/logos/rust.svg"></a>&nbsp
+    <a href="https://spring.io/"><img height="64" src="https://cdn.svgporn.com/logos/spring.svg"></a>&nbsp
+    <a href="https://git-scm.com/"><img height="64" src="https://cdn.svgporn.com/logos/git-icon.svg"></a>&nbsp
   </p>
 </samp>
 <br><br>
-
 
 <p>
    <span>
@@ -82,4 +82,11 @@
       <ul>
    </span>
 </p>
+      
+<br>
 
+### My Passion
+- Scalable System Design :writing_hand:  
+- Photography :camera_flash:
+- Travel :mountain_railway:
+- Cooking :shallow_pan_of_food:	
