@@ -70,7 +70,7 @@
 
 <p>
    <span>
-      <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=ud-ud&show_icons=true&hide_border=true">
+      <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ud-ud&show_icons=true&hide_border=true">
    </span>
    <span>
       <h3>My Interest </h3>
@@ -79,7 +79,7 @@
          <li>Competitive Programming</li>
          <li>Data Visualization</li>
          <li>Embedded Analytics</li>
-      <ul>
+      </ul>
    </span>
 </p>
       
