@@ -86,7 +86,7 @@
 <br>
 
 ### My Passion
-- Scalable System Design :writing_hand:  
-- Photography :camera_flash:
-- Travel :mountain_railway:
-- Cooking :shallow_pan_of_food:	
+Scalable System Design :writing_hand:
+Photography :camera_flash:
+Travel :mountain_railway:
+Cooking :shallow_pan_of_food:
