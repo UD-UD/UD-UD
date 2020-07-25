@@ -2,17 +2,18 @@
    <img src="https://github.com/UD-UD/Profile/blob/master/circle-cropped%20(1).png">&nbsp
 </p>
 <h1 align="center" >Hi, I am Ujjal </h2>
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/duttaujjalkumar/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ud_ud_ud_ud_ud/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:duttaujjal143@gmail.com)
-[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@UD_UD)
-
 <p align="center">
   <samp align="center">
     Software Engineering Lead at <a href="https://www.charts.com">Charts.com</a>
+    <br>
+     <p align="center">
+      <a href="https://www.linkedin.com/in/duttaujjalkumar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>&nbsp
+      <a href="https://www.instagram.com/ud_ud_ud_ud_ud/"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white"></a>&nbsp
+       <a href="mailto:duttaujjal143@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>&nbsp
+      <a href="https://medium.com/@UD_UD"><img src="https://aleen42.github.io/badges/src/medium.svg"></a>&nbsp
+      </p>
     <br><br>
-    Currently working with
+     <p align="center">Currently working with</p>
     <br>
   </samp>
   <p align="center">
