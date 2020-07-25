@@ -12,7 +12,6 @@
        <a href="mailto:duttaujjal143@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>&nbsp
       <a href="https://medium.com/@UD_UD"><img src="https://aleen42.github.io/badges/src/medium.svg"></a>&nbsp
       </p>
-    <br><br>
      <p align="center">Currently working with</p>
     <br>
   </samp>
@@ -54,7 +53,7 @@
 
 ### My Experiences
 <samp align="center">
- I love to learn and experiments with new technology and frameworks.&nbspTo name a few that I have worked &nbsp with are
+ I love to learn and experiment with new technology and frameworks.&nbspTo name a few that I have worked &nbsp with are
   <br><br>
   <p align="center">
     <img height="64" src="https://cdn.svgporn.com/logos/java.svg">&nbsp
@@ -69,13 +68,19 @@
 </samp>
 <br><br>
 
-### My Interest 
-- System Design
-- Competitive Programming
-- Data Visualization
-- Embedded Analytics
-<br><br>
 
-### My Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=ud-ud&show_icons=true&hide_border=false&hide_title=true)
+<p>
+   <span>
+      <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=ud-ud&show_icons=true&hide_border=true">
+   </span>
+   <span>
+      <h3>My Interest </h3>
+      <ul>
+         <li>System Design</li>
+         <li>Competitive Programming</li>
+         <li>Data Visualization</li>
+         <li>Embedded Analytics</li>
+      <ul>
+   </span>
+</p>
 
