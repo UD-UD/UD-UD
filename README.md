@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp align="center">
-    Software Engineering Lead at <a href="https://www.charts.com">Charts.com</a>
+   Engineering Manager at <a href="https://www.mode.com">Mode</a>
     <br>
      <p align="center">
       <a href="https://www.linkedin.com/in/duttaujjalkumar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>&nbsp
