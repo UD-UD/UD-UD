@@ -66,9 +66,6 @@
 
 <p>
    <span>
-      <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ud-ud&show_icons=true&hide_border=true">
-   </span>
-   <span>
       <h3>My Interest </h3>
       <ul>
          <li>System Design</li>
